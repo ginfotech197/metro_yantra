@@ -1,0 +1,11 @@
+[submodule "metro_yanta_api"]
+	path = metro_yanta_api
+	url = https://github.com/ginfotech197/metro_yanta_api.git
+
+[submodule "metro_yantra_angular"]
+	path = metro_yantra_angular
+	url = https://github.com/ginfotech197/metro_yantra_angular.git
+
+[submodule "metro_yantra_production"]
+	path = metro_yantra_production
+	url = https://github.com/ginfotech197/metro_yantra_production.git
